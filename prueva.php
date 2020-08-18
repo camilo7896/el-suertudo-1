@@ -16,7 +16,7 @@
                 <!--***************** Encabezado ( titulo ) **********************************************-->
 
 <header class="titulo">
-   <img  src="img/logoheade.jpg" alt="">  
+   <img  src="img/logonuevo.jpg" alt="">  
                        
             </header>
                 <!--***************** Fin de Encabezado ( titulo ) **********************************************-->
