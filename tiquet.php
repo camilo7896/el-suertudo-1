@@ -14,7 +14,7 @@
             <!--*****************Encabezado ( titulo )**********************************************-->
             <header class="titulo">
             <section>
-                <img  src="img/logoheade.jpg" alt="">
+                <img  src="img/logonuevo.jpg" alt="">
          </section>            
                 </header>
              <!--*****************Encabezado ( titulo )**********************************************-->
